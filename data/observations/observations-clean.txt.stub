@@ -1,0 +1,2 @@
+﻿"Date_Time_Absolute_dmy_hmsf";"Date_dmy";"Time_Absolute_hms";"Time_Absolute_f";"Time_Relative_hmsf";"Time_Relative_hms";"Time_Relative_f";"Time_Relative_sf";"Duration_sf";"Observation";"Event_Log";"Subject";"Behavior";"Event_Type";"Comment";
+"04-02-2025 16:20:37.416";"04-02-2025";"16:20:37";417;"00:00:36.803";"00:00:36";803;36,8034;0;"01/10 AM NB 06:45-08:15";"Event log";"Regular";"";"";"";
